@@ -1,1 +1,1 @@
-# NTHU_Deeplearning and Machinglearning_homework
+# NTHU_Deeplearning_homework
